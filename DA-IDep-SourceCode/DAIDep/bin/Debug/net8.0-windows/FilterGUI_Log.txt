@@ -1,0 +1,61 @@
+[2025/1/13 9:51:03] Command-line arguments: C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.dll
+[2025/1/13 9:51:03] Application running as administrator. Relaunching as standard user.
+[2025/1/13 9:51:03] Creating task with command: schtasks /Create /TN "SZTSProgramGUIRelaunch" /TR "\"C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.exe\" "--standard-user"" /SC ONCE /ST 00:00 /RL LIMITED /F
+[2025/1/13 9:51:03] Running task with command: schtasks /Run /TN "SZTSProgramGUIRelaunch"
+[2025/1/13 9:51:03] Task run completed with exit code: 0
+[2025/1/13 9:54:57] Command-line arguments: C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.dll
+[2025/1/13 9:54:57] Application running as administrator. Relaunching as standard user.
+[2025/1/13 9:54:57] Creating task with command: schtasks /Create /TN "SZTSProgramGUIRelaunch" /TR "\"C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.exe\" "--standard-user"" /SC ONCE /ST 00:00 /RL LIMITED /IT /F
+[2025/1/13 9:54:57] Running task with command: schtasks /Run /TN "SZTSProgramGUIRelaunch"
+[2025/1/13 9:54:57] Task run completed with exit code: 0
+[2025/1/13 9:55:23] Command-line arguments: C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.dll
+[2025/1/13 9:55:23] Application running as administrator. Relaunching as standard user.
+[2025/1/13 9:55:23] Creating task with command: schtasks /Create /TN "SZTSProgramGUIRelaunch" /TR "\"C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.exe\" "--standard-user"" /SC ONCE /ST 00:00 /RL LIMITED /IT /F
+[2025/1/13 9:55:23] Running task with command: schtasks /Run /TN "SZTSProgramGUIRelaunch"
+
+[2025/1/13 9:56:21] Command-line arguments: C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.dll
+[2025/1/13 9:56:21] Application running as administrator. Relaunching as standard user.
+[2025/1/13 9:56:21] Creating task with command: schtasks /Create /TN "SZTSProgramGUIRelaunch" /TR "\"C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.exe\" "--standard-user"" /SC ONCE /ST 00:00 /RL LIMITED /IT /F
+[2025/1/13 9:56:21] Running task with command: schtasks /Run /TN "SZTSProgramGUIRelaunch"
+
+
+
+[2025/1/13 9:59:15] Command-line arguments: C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.dll
+[2025/1/13 9:59:15] Application running as administrator. Relaunching as standard user.
+[2025/1/13 9:59:15] exePath: C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.exe
+[2025/1/13 9:59:15] Creating task with command: schtasks /Create /TN "SZTSProgramGUIRelaunch" /TR "\"C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.exe\" "--standard-user"" /SC ONCE /ST 00:00 /RL LIMITED /IT /F
+[2025/1/13 9:59:15] Running task with command: schtasks /Run /TN "SZTSProgramGUIRelaunch"
+[2025/1/13 10:05:09] Command-line arguments: C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.dll
+[2025/1/13 10:05:09] Application running as administrator. Relaunching as standard user.
+[2025/1/13 10:05:09] exePath: C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.exe
+[2025/1/13 10:05:09] Creating task with command: schtasks /Create /TN "SZTSProgramGUIRelaunch" /TR "\"C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.exe\" "--standard-user"" /SC ONCE /ST 00:00 /RL LIMITED /RU "Lenovo" /IT /F
+[2025/1/13 10:05:10] Running task with command: schtasks /Run /TN "SZTSProgramGUIRelaunch"
+
+
+[2025/1/13 10:10:37] Command-line arguments: C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.dll
+[2025/1/13 10:10:37] Application running as administrator. Relaunching as standard user.
+[2025/1/13 10:10:37] exePath: C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.exe
+[2025/1/13 10:10:37] Creating task with command: schtasks /Create /TN "SZTSProgramGUIRelaunch" /TR "\"C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.exe\" "--standard-user"" /SC ONCE /ST 00:00 /RL LIMITED /RU "Lenovo" /IT /F
+[2025/1/13 10:10:38] Task creation completed with exit code: 0
+[2025/1/13 10:10:38] Running task with command: schtasks /Run /TN "SZTSProgramGUIRelaunch"
+
+
+[2025/1/13 10:13:43] Command-line arguments: C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.dll
+[2025/1/13 10:13:43] Application running as administrator. Relaunching as standard user.
+[2025/1/13 10:13:43] exePath: C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.exe
+[2025/1/13 10:13:43] Creating task with command: schtasks /Create /TN "SZTSProgramGUIRelaunch" /TR "\"C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.exe\" "--standard-user"" /SC ONCE /ST 00:00 /RL LIMITED /RU "Lenovo" /IT /F
+[2025/1/13 10:13:43] Running task with command: schtasks /Run /TN "SZTSProgramGUIRelaunch"
+
+
+
+[2025/1/13 10:23:43] Command-line arguments: C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.dll
+[2025/1/13 10:23:43] Application running as administrator. Relaunching as standard user.
+[2025/1/13 10:23:43] exePath: C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.exe
+[2025/1/13 10:23:43] Creating task with command: schtasks /Create /TN "SZTSProgramGUIRelaunch" /TR "\"C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.exe\" "--standard-user"" /SC ONCE /ST 00:00 /RL LIMITED /RU "Lenovo" /IT /F
+[2025/1/13 10:23:46] Task creation completed with exit code: 0
+[2025/1/13 10:23:46] Running task with command: schtasks /Run /TN "SZTSProgramGUIRelaunch"
+[2025/1/13 10:24:12] Command-line arguments: C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.dll
+[2025/1/13 10:24:12] Application running as administrator. Relaunching as standard user.
+[2025/1/13 10:24:12] exePath: C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.exe
+[2025/1/13 10:24:12] Creating task with command: schtasks /Create /TN "SZTSProgramGUIRelaunch" /TR "\"C:\Users\Lenovo\Desktop\GUI-20240620\FilterGUI\bin\Debug\net8.0-windows\FilterGUI.exe\" "--standard-user"" /SC ONCE /ST 00:00 /RL LIMITED /F
+[2025/1/13 10:24:12] Running task with command: schtasks /Run /TN "SZTSProgramGUIRelaunch"

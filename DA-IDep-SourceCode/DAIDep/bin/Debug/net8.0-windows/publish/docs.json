@@ -1,0 +1,79 @@
+{
+  "documents": [
+    {
+      "Name": "raw-txt版本-本体测试文件.txt",
+      "TypeDescription": ".txt"
+    },
+    {
+      "Name": "raw-docx版本-本体测试文件.docx",
+      "TypeDescription": ".docx"
+    },
+    {
+      "Name": "raw-pdf版本-本体测试文件.pdf",
+      "TypeDescription": ".pdf"
+    },
+    {
+      "Name": "raw-pptx版本-本体测试文件.pptx",
+      "TypeDescription": ".pptx"
+    },
+    {
+      "Name": "raw-xlsx版本-本体测试文件.xlsx",
+      "TypeDescription": ".xlsx"
+    },
+    {
+      "Name": "raw-md版本-本体测试文件.md",
+      "TypeDescription": ".md"
+    },
+    {
+      "Name": "raw-json版本-本体测试文件.json",
+      "TypeDescription": ".json"
+    }
+  ],
+  "templatePath": "W:\\敏感文件资料\\temp\\替身文件模版",
+  "replace_documents": [
+    {
+      "Name": "txt版本-替身文件模版.txt",
+      "TypeDescription": ".txt"
+    },
+    {
+      "Name": "docx版本-替身文件模版.docx",
+      "TypeDescription": ".docx"
+    },
+    {
+      "Name": "doc版本-替身文件模版.doc",
+      "TypeDescription": ".doc"
+    },
+    {
+      "Name": "pdf版本-替身文件模版.pdf",
+      "TypeDescription": ".pdf"
+    },
+    {
+      "Name": "xlsx版本-替身文件模版.xlsx",
+      "TypeDescription": ".xlsx"
+    },
+    {
+      "Name": "xls版本-替身文件模版.xls",
+      "TypeDescription": ".xls"
+    },
+    {
+      "Name": "csv版本-替身文件模版.csv",
+      "TypeDescription": ".csv"
+    },
+    {
+      "Name": "ppt版本-替身文件模版.ppt",
+      "TypeDescription": ".ppt"
+    },
+    {
+      "Name": "pptx版本-替身文件模版.pptx",
+      "TypeDescription": ".pptx"
+    },
+    {
+      "Name": "md版本-替身文件模版.md",
+      "TypeDescription": ".md"
+    },
+    {
+      "Name": "json版本-替身文件模版.json",
+      "TypeDescription": ".json"
+    }
+  ]
+}

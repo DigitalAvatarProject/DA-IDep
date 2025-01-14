@@ -1,0 +1,5 @@
+/.vs
+/obj
+bin/Debug/net8.0-windows/DAIDep.pdb
+bin/Debug/net8.0-windows/DAIDep.dll
+bin/Debug/net8.0-windows/DAIDep.exe

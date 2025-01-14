@@ -1,0 +1,10 @@
+{
+  "driveLetter": "W:",
+  "drivePath": "C:\\SZTSProgramInstaller\\SZTSConfig\\szts_encdir",
+  "authValidTime": 1,
+  "passwordTimeout": 20,
+  "logKeywords": "敏感文件资料",
+  "Nodisturb": 0,
+  "Trapping": 0,
+  "LogStatus": 0
+}

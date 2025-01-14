@@ -1,0 +1,40 @@
+{
+    "process_list1": [
+		"Explorer.EXE",
+		"DllHost.exe",
+		"OpenWith.exe",
+		"svchost.exe",
+		"csrss.exe",
+		"lsass.exe",
+		"spoolsv.exe",
+		"ctfmon.exe",
+		"wpscloudsvr.exe",
+		"wzdata.exe",
+		"smartscreen.exe"
+    ],
+	"process_list2": [
+        "wps.exe",
+		"wpp.exe",
+		"et.exe",
+		"wpspdf.exe",
+		"WINWORD.EXE",
+		"POWERPNT.EXE",
+		"EXCEL.EXE",
+		"chrome.exe",
+		"msedge.exe",
+		"Notepad.exe",
+		"notepad++.exe",
+		"sublime_text.exe",
+		"Code.exe",
+		"FOXITPDFREADER.EXE",
+		"FOXITPDFEDITOR.EXE",
+		"360DesktopLite64.exe",
+		"Typora.exe",
+		"AcroRd32.exe",
+		"Acrobat.exe",
+		"WORDPAD.EXE",
+		"iexplore.exe",
+		"cmd.exe",
+		"powershell.exe"
+    ]
+}

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+	<install>
+		
+	</install>
+
+	<coverinstall>
+		
+	</coverinstall>
+	
+	<start>
+		<process>
+		
+		</process>
+	</start>
+
+	<startsilent>
+		
+	</startsilent>
+
+	<repair>
+		
+		
+	</repair>
+	
+	<uninstall>
+		<process>
+
+			<!-- Antiy begin-->
+			<!-- <item path="path" 	param="-u" 			wait=-1 show=0 kill=1/> -->
+			<!-- Antiy end-->
+			 <!-- <item path="Tools\agent\AtCollAgent.exe" 	param="uninstall" 			wait=-1 show=0 kill=1/>  -->
+		</process>
+		
+		<service>
+			<!-- <item servicename="AtEdrCommSvc" /> -->
+			<!-- <item servicename="AtEdrSvc" /> -->
+			<!-- <item servicename="AtCollAgent" /> -->
+		</service>
+
+		<reg>
+			<!-- Antiy begin -->
+			<!-- <item root="HKEY_LOCAL_MACHINE" path="SOFTWARE\Antiy Labs\EDR"  name=""/> -->
+			<!-- <item root="HKEY_LOCAL_MACHINE" path="SOFTWARE\Antiy Labs\EDR"/> -->
+			<!-- <item root="HKEY_LOCAL_MACHINE" path="SOFTWARE\Antiy Labs\" name="InstallPath"/> -->
+			<!-- <item root="HKEY_LOCAL_MACHINE" path="SOFTWARE\Antiy Labs"/>	 -->
+			<!-- <item root="HKEY_LOCAL_MACHINE" path="SOFTWARE\Antiy Labs\" name="InstallPath" is64bit="1"/> -->
+			<!-- <item root="HKEY_LOCAL_MACHINE" path="SOFTWARE\Antiy Labs" is64bit="1"/> -->
+			<!-- <item root="HKEY_LOCAL_MACHINE" path="Software\Microsoft\Windows\CurrentVersion\Run" name="AntiyEDR"/> -->
+			<!-- <item root="HKEY_LOCAL_MACHINE" path="Software\Microsoft\Windows\CurrentVersion\Run" name="AntiyEDR" is64bit="1"/> -->
+			<!-- <item root="HKEY_LOCAL_MACHINE" path="SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Antiy_EDR_is1" /> -->
+		</reg>
+		
+		<desktop>
+			<!-- <item file="AtTray.exe" link="安天智甲终端检测与响应系统.lnk" /> -->
+		</desktop>
+		
+		<startmenupin>
+			<!-- <item file="atmain.exe" link="安天智甲终端检测与响应系统.lnk" /> -->
+			<!-- <item file="AtUninstall.exe" link="安天智甲终端检测与响应系统\卸载安天智甲终端检测与响应系统.lnk" /> -->
+		</startmenupin>
+
+		<startmenu>
+			<!-- <item file="atmain.exe" link="安天智甲终端检测与响应系统" />		 -->
+		</startmenu>
+		
+		<quicklaunch>
+			<!-- <item file="atmain.exe" link="安天智甲终端检测与响应系统.lnk" /> -->
+			<!-- <item file="AtUninstall.exe" link="卸载安天智甲终端检测与响应系统.lnk" /> -->
+		</quicklaunch>
+		
+		<taskbarpin>
+			<!-- <item file="atmain.exe" link="安天智甲终端检测与响应系统.lnk" /> -->
+			<!-- <item file="AtUninstall.exe" link="卸载安天智甲终端检测与响应系统.lnk" /> -->
+		</taskbarpin>
+	</uninstall>
+</config>

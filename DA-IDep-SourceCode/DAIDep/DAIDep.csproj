@@ -1,0 +1,84 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <PackageIcon>finallogo.png</PackageIcon>
+    <ApplicationIcon>finallogo2.ico</ApplicationIcon>
+    <Platforms>AnyCPU;x86;ARM32</Platforms>
+	
+	<PublishSingleFile>false</PublishSingleFile> <!-- 不合并为单文件 -->
+	<SelfContained>false</SelfContained>
+	<ApplicationManifest>app.manifest</ApplicationManifest> <!-- 使用共享运行时 -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="docs.json" />
+    <None Remove="finallogo.png" />
+    <None Remove="finallogo.ico" />
+    <None Remove="forms.json" />
+    <None Remove="f_secure.json" />
+    <None Remove="Images\close_EVA_green.png" />
+    <None Remove="Images\close_red.png" />
+    <None Remove="Images\close_yellow.png" />
+    <None Remove="Images\Minimize_red.png" />
+    <None Remove="Images\Minimize_yellow.png" />
+    <None Remove="Images\shut_EVA_green.png" />
+    <None Remove="Images\shut_EVA_purple.png" />
+    <None Remove="Images\shut_EVA_red.png" />
+    <None Remove="logo.png" />
+    <None Remove="pgraph.png" />
+    <None Remove="View\Configs\form.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <COMReference Include="TaskScheduler">
+      <WrapperTool>tlbimp</WrapperTool>
+      <VersionMinor>0</VersionMinor>
+      <VersionMajor>1</VersionMajor>
+      <Guid>e34cb9f1-c7f7-424c-be29-027dcc09363a</Guid>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+      <EmbedInteropTypes>true</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\close_EVA_green.png" />
+    <Resource Include="Images\close_red.png" />
+    <Resource Include="Images\close_yellow.png" />
+    <Resource Include="Images\Minimize_red.png" />
+    <Resource Include="Images\Minimize_yellow.png" />
+    <Resource Include="Images\shut_EVA_green.png" />
+    <Resource Include="Images\shut_EVA_purple.png" />
+    <Resource Include="Images\shut_EVA_red.png" />
+    <Resource Include="View\Configs\form.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="src\Trash\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SQLite" Version="8.0.5" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.118" />
+    <PackageReference Include="TaskScheduler" Version="2.11.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="finallogo2.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties />
+    </VisualStudio>
+  </ProjectExtensions>
+
+</Project>
