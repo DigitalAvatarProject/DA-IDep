@@ -28,13 +28,13 @@ The software is compatible with the following Windows operating systems:
 - Windows 11
 
 #### Installation Steps
-1. Download the `DSIDepProgramInstaller.exe` file in the `DS-IDep-ProgramInstaller` directory.
+1. Download the `DSIDepProgramChineseInstaller.exe` file or the `DSIDepProgramEnglishInstaller.exe` in the `Releases`.
 2. Run the installer (default installation path is `C:\SZTSProgramInstaller\SZTSProgram`; custom installation paths are not supported).
 3. During installation, allow all prompted permissions.
 4. Once the installation completes, a new shortcut will appear on your desktop.
 5. All program and data files will be stored in `C:\SZTSProgramInstaller`.
 
-For detailed instructions, refer to the user manual `DigitalScapegoatSoftwareUserManual.pdf` included in the `DS-IDep-ProgramInstaller` directory.
+For detailed instructions, refer to the user manual `DigitalAvatarSoftwareUserManual-ChineseVersion.pdf` or `DigitalAvatarSoftwareUserManual-EnglishVersion.pdf`.
 
 ---
 
