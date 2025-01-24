@@ -41,7 +41,7 @@ For detailed instructions, refer to the user manual `DigitalAvatarSoftwareUserMa
 ### Source Code Components
 #### Source Code
 The key source code for the Digital Scapegoat software prototype is located in the `DS-IDep-SourceCode` directory. 
-- **DAIDep**: Use **Visual Studio 2022 Preview** to open the `.sln` file and compile the project.
+- **DSIDep**: Use **Visual Studio 2022 Preview** to open the `.sln` file and compile the project.
 - **Scripts**: Contains components for Windows terminal log collection.
 
 #### Release Programs
