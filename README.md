@@ -34,7 +34,7 @@ The software is compatible with the following Windows operating systems:
 4. Once the installation completes, a new shortcut will appear on your desktop.
 5. All program and data files will be stored in `C:\SZTSProgramInstaller`.
 
-For detailed instructions, refer to the user manual `DigitalAvatarSoftwareUserManual-ChineseVersion.pdf` or `DigitalAvatarSoftwareUserManual-EnglishVersion.pdf`.
+For detailed instructions, refer to the user manual `DigitalScapegoatSoftwareUserManual-ChineseVersion.pdf` or `DigitalScapegoatSoftwareUserManual-EnglishVersion.pdf`.
 
 ---
 
