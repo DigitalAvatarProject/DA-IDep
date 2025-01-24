@@ -1,6 +1,6 @@
-## The Software Prototype of Digital Avatar: An Incentive Deception Model for Defending Unknown Stealing Attacks on Critical Data Resources
+## The Software Prototype of Digital Scapegoat: An Incentive Deception Model for Defending Unknown Stealing Attacks on Critical Data Resources
 
-Welcome to the Digital Avatar Project repository. This repository contains the software prototype for the DA-IDep model, developed to defend critical data resources against unknown stealing attacks. This document will help you utilize the system effectively.
+Welcome to the Digital Scapegoat Project repository. This repository contains the software prototype for the DA-IDep model, developed to defend critical data resources against unknown stealing attacks. This document will help you utilize the system effectively.
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to the Digital Avatar Project repository. This repository contains the s
 ---
 
 ### Overview
-The Digital Avatar project implements the DA-IDep (Digital Avatar Incentive Deception) model as a prototype system to protect critical data resources from advanced unknown attacks. The prototype is built and tested on the Windows platform, leveraging multiple tools and frameworks.
+The Digital Scapegoat project implements the DA-IDep (Digital Scapegoat Incentive Deception) model as a prototype system to protect critical data resources from advanced unknown attacks. The prototype is built and tested on the Windows platform, leveraging multiple tools and frameworks.
 
 ### Installation Guide
 
@@ -34,21 +34,21 @@ The software is compatible with the following Windows operating systems:
 4. Once the installation completes, a new shortcut will appear on your desktop.
 5. All program and data files will be stored in `C:\SZTSProgramInstaller`.
 
-For detailed instructions, refer to the user manual `DigitalAvatarSoftwareUserManual.pdf` included in the `DA-IDep-ProgramInstaller` directory.
+For detailed instructions, refer to the user manual `DigitalScapegoatSoftwareUserManual.pdf` included in the `DS-IDep-ProgramInstaller` directory.
 
 ---
 
 ### Source Code Components
 #### Source Code
-The key source code for the Digital Avatar software prototype is located in the `DA-IDep-SourceCode` directory. 
+The key source code for the Digital Scapegoat software prototype is located in the `DS-IDep-SourceCode` directory. 
 - **DAIDep**: Use **Visual Studio 2022 Preview** to open the `.sln` file and compile the project.
 - **Scripts**: Contains components for Windows terminal log collection.
 
 #### Release Programs
-The above source code depends on the release programs and configuration files located in the `DA-IDep-ReleaseProgram` directory. Specifically:
+The above source code depends on the release programs and configuration files located in the `DS-IDep-ReleaseProgram` directory. Specifically:
 - **SZTSProgram Directory**: Provides essential executable programs, such as:
-  - `unionFileSubstituteSystem.exe`: Controls DA-IDep FileSystem mounting and unmounting.
-  - `SZTSLogCollectionProgram.exe`: Manages DA-IDep log collection and analysis.
+  - `unionFileSubstituteSystem.exe`: Controls DS-IDep FileSystem mounting and unmounting.
+  - `SZTSLogCollectionProgram.exe`: Manages DS-IDep log collection and analysis.
   - `PopPwd.exe`: Displays password prompts for identity authentication.
 
 - **SZTSConfig Directory**: Contains configuration files, such as:
